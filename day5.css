@@ -1,0 +1,22 @@
+* {
+  font-family: "Playwrites DE VA Guides", cursive;
+}
+
+.para1 {
+  color: rgb(138, 55, 3);
+}
+.para2 {
+  /* font-size: 30%; */
+  font-size: 1rem;
+  /* font-weight: 100; */
+  /* font-style: oblique; */
+  /* text-decoration: line-through;
+  text-decoration-style: wavy; */
+  text-align: justify;
+
+  /* font-family: ; */
+}
+/* 
+100 - 900
+ */
+/* 900 = bold = bolder */
