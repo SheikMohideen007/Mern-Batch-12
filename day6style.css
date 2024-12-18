@@ -1,0 +1,60 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.box {
+  /* height: 400px; */
+  background-color: burlywood;
+  color: blue;
+  background-image: url("assets/car1.jpg");
+  background-repeat: no-repeat;
+  /* background-position: 50%; */
+  /* background-position-x: 20px; */
+  /* background-position-y: -100px; */
+  background-size: 300px 300px;
+  opacity: 1;
+  /* 0 - 1 */
+  /* font-weight: ; */
+}
+.box2 {
+  background-image: url(assets/car2.jpg);
+}
+.box3 {
+  height: 200px;
+  width: 600px;
+  background-color: burlywood;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+  padding-top: 10px;
+  padding-left: 20px;
+  margin-top: 10px;
+  margin-left: 40px;
+}
+#box4 {
+  height: 200px;
+  width: 600px;
+  background-color: rgb(135, 200, 222);
+  margin: 50px 30px 10px 50px; /*T R B L*/
+  padding: 10px 5px 0px 20px; /*T R B L*/
+
+  /* border: dashed black 2px; */
+  border-top-style: solid;
+  border-top-width: 5px;
+  border-top-color: aqua;
+
+  border-right-style: groove;
+  border-right-width: 10px;
+
+  border-bottom-style: dotted;
+  border-bottom-width: 10px;
+
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+
+  /* border: 1px solid black;
+
+  border-radius: 30px;
+  */
+}
